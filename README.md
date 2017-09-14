@@ -1,4 +1,4 @@
-# Data-Clients-And-Information-Servers
+# Data Clients And Information Servers
 
 In this project we work with Data Clients and Information Servers that deals primarily with data collection.The main objectives of this project are as follows:
 
@@ -15,14 +15,16 @@ We dealt with two separate problems in here:
 
 Choose a topic and understand the Search API that we are using for can give you only limited number of tweets per day and also only a sampling of the all the tweets. You will collect at least 20000 tweets. Group them by geo-location as in Google maps API (one more API) and plot them on the map of USA. If you plot the location every tweet then there will be too many points on the map. You can plot all the tweets at a given location (say a city or state) by a single blob, the size of the blob representing the density of tweets. You may need some R programming here.
 
-Input: Search word or hash tag related to super bowl. Data client processing: Obtain and group tweets by location. 
-Output: plot the groups by size on a map of USA for visual understanding of the response to an event. 
+*Input: Search word or hash tag related to super bowl. Data client processing: Obtain and group tweets by location.
+
+*Output: plot the groups by size on a map of USA for visual understanding of the response to an event. 
 
 ### Problem 2: Summarizing trending topics about a location
 
 When we are visiting places (say, for an interview or other official visits) you may want to about topics trending in that place. Instead of reading newspapers and online news, you want just a quick summary. You want to put use your twitter “data client” application development experience. You use the twitteR libraries “trends” function to retrieve 10 top things trending about the place and summarize it appropriately as a complete message (print out).
 
-Input: Location specified either as geo-location or by its name
-Output: A message listing the topics trending about the place.
+*Input: Location specified either as geo-location or by its name
+
+*Output: A message listing the topics trending about the place.
 
 Note: Further details are mentioned in the inidivual Jupyter notebooks for the problems.
