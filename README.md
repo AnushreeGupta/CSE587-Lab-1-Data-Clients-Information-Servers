@@ -27,4 +27,4 @@ When we are visiting places (say, for an interview or other official visits) you
 
 - Output: A message listing the topics trending about the place.
 
-*Note: Further details are mentioned in the inidivual Jupyter notebooks for the problems.*
+###### *Note: Further details are mentioned in the inidivual Jupyter notebooks for the problems.*
